@@ -27,6 +27,36 @@
     color: green;
 }
 
-.hemler {
+.helmer {
     color: orange;
+}
+
+#table1 {
+    background-color: white;
+    margin: auto;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse:  collapse;
+    width: 50%;
+}
+
+#table1 td, #table1 th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+#table1 tr:nth-child(even){
+    background-color: darkolivegreen;
+}
+
+#table1 tr:hover{
+    background-color: grey;
+}
+
+#table1 th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: red;
+    color: white;
 }
