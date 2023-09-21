@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-4
 A practice assignment for HTML with CSS
 
-Hosted at [playpart](https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-asrithadaida/blob/41d48616e48268cce2ad9ee64f3d7f696b527a88/playpart.html)
+Hosted at [playpart](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-asrithadaida/playpart.html)
