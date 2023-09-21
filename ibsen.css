@@ -67,3 +67,25 @@ h6:hover {
     box-shadow: 2px 2px 10px coral;
     border: 2px solid red;
 }
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.navbar-horizontal li{
+    float: left;
+    color: black;
+    background-color: palegoldenrod;
+}
+
+ul.navbar-horizontal a {
+    display: block;
+    padding: 8px;
+}
+
+ul.navbar-horizontal a:hover {
+    background-color: black;
+    color: white;
+}
