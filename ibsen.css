@@ -1,0 +1,32 @@
+.speech {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: black;
+}
+
+.direction {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    color: black;
+    background-color: grey;
+}
+
+.direction:hover{
+    color: white;
+    background-color: red;
+}
+
+.name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    color: black;
+}
+
+.nora {
+    color: green;
+}
+
+.hemler {
+    color: orange;
+}
